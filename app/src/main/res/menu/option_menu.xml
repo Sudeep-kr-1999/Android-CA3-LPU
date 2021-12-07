@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/optionGray" android:title="@string/bakcgroundgray"/>
+    <item android:id="@+id/optionlightBrown" android:title="@string/backgroundLightBrown"/>
+    <item android:id="@+id/optionwhite" android:title="@string/backgroundwhite"/>
+</menu>
